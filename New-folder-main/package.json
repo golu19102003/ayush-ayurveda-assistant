@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": ["Frontend"],
+  "scripts": {
+    "build": "cd Frontend && npm install --unsafe-perm && npm run build",
+    "dev": "cd Frontend && npm run dev"
+  },
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "multer": "^2.0.2"
+  }
+}

@@ -1,0 +1,44 @@
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-04T04:35:58.674Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-04T04:37:17.056Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - / - GET - ::1","timestamp":"2025-12-04T04:37:28.362Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - /favicon.ico - GET - ::1","timestamp":"2025-12-04T04:37:28.559Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - / - GET - ::1","timestamp":"2025-12-04T04:37:34.445Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - /favicon.ico - GET - ::1","timestamp":"2025-12-04T04:37:34.490Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - / - GET - ::1","timestamp":"2025-12-04T04:37:35.413Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - /favicon.ico - GET - ::1","timestamp":"2025-12-04T04:37:35.464Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-04T04:57:23.963Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-04T05:01:29.045Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:41:40.674Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:46:06.484Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:56:14.942Z"}
+{"code":8000,"codeName":"AtlasError","connectionGeneration":0,"errorLabelSet":{},"errorResponse":{"code":8000,"codeName":"AtlasError","errmsg":"bad auth : Authentication failed.","ok":0},"level":"error","message":"Failed to start server: bad auth : Authentication failed.","ok":0,"stack":"MongoServerError: bad auth : Authentication failed.\n    at Connection.sendCommand (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:306:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Connection.command (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:334:26)\n    at async executeScram (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\auth\\scram.js:79:22)\n    at async ScramSHA256.auth (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\auth\\scram.js:39:16)\n    at async performInitialHandshake (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:104:13)\n    at async connect (C:\\Users\\hp\\Downloads\\New-folder-main\\New-folder-main\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:24:9)","timestamp":"2025-12-05T03:57:07.388Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:57:48.176Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - / - GET - ::1","timestamp":"2025-12-05T03:57:53.354Z"}
+{"level":"error","message":"500 - Cannot set property query of #<IncomingMessage> which has only a getter - /favicon.ico - GET - ::1","timestamp":"2025-12-05T03:57:53.536Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:58:26.396Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:58:26.400Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:58:26.434Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T03:58:26.437Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:03:53.619Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:03:53.620Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:05:45.446Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:09.187Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:09.188Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:09.190Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:09.194Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:33.543Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:33.545Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:33.544Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:33.561Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:49.558Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:49.561Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:49.571Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:07:49.626Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:04.819Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:04.819Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:04.825Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:04.836Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:37.922Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:37.925Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:37.925Z"}
+{"level":"info","message":"Server running on port 3003 in development mode","timestamp":"2025-12-05T04:08:37.930Z"}
