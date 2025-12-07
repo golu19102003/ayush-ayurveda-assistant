@@ -7,7 +7,7 @@
 A simple assistant for Ayurvedic wellness — providing Ayurveda-based guidance, herb information, dosha suggestions, and more.  
 
 ## 📖 Project Overview
-**Ayush Ayurveda Assistant** aims to make traditional Ayurvedic knowledge more accessible by offering users a way to get guidance on herbs, lifestyle, diet or dosha-based wellness suggestions. The project could serve as a reference / helper tool for people interested in Ayurveda and natural health.
+**Ayush Ayurveda Assistant** is a simple yet impactful tool designed to make traditional Ayurvedic knowledge easily accessible by allowing users to explore herbs, understand their Ayurvedic properties, and receive basic lifestyle or diet recommendations based on body type or dosha, while also offering multilingual support to overcome language barriers; its key features include an herbal lookup system, dosha-based wellness guidance, user-friendly search functionality, and language flexibility, and its use cases involve helping individuals identify herbs and their benefits, guiding users toward appropriate lifestyle and dietary choices, assisting beginners or enthusiasts in learning Ayurveda, and acting as a foundational module for building a more advanced Ayurvedic wellness web or mobile application.
 Use cases may include:  
 - Looking up herbs and their Ayurvedic properties  
 - Getting lifestyle or diet suggestions based on body type / dosha (if implemented)  
